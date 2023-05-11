@@ -11,7 +11,7 @@ Designers: Christian Robertson, Principal design
 
 ## How To Use This Font In Your FASTN Package:
 
-[Read the docs and demo](https://fastn-community.github.io/roboto-font).
+[Read the docs and demo](https://fastn-community.github.io/roboto-typography).
 
 ## 👀 Want to learn more?
 
